@@ -58,15 +58,13 @@ def dist_jaccard(soluciones, vp):
 
     return dist
 
-def dist_sovence(soluciones, vp):
-    pass
-
 
 if __name__ == '__main__':
     dataset = cargar_instancias()
     instancias = [data[1:-1] for data in dataset]
-    vp = [1, 0, 9, 2, 4, 9, 4, 1]
-    # vp = [rand.randint(1, 10) for _ in range(7)] + [rand.randint(1, 2)]
+    # vp = [1, 0, 9, 2, 4, 9, 4, 1]
+    vp = [rand.randint(1, 10) for _ in range(7)] + [rand.randint(1, 2)]
+    print('vp: ', vp)
 
     DM = pd.DataFrame(distancia_manhattan(instancias, vp[:-1]))
     DE = pd.DataFrame(distancia_euclidiana(instancias, vp[:-1]))
@@ -80,6 +78,8 @@ if __name__ == '__main__':
     pd.set_option('display.width', 1000)
     pd.set_option('display.colheader_justify', 'center')
     df = pd.DataFrame()
-    df = pd.concat([instancias, DM, DE, DEN, DC, DJ], axis=1, ignore_index=True)
-    df.columns = ['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7', 'Manhattan', 'Euclidiana', 'Euclidiana Norm', 'Coseno', 'Jaccard']
+    # df = pd.concat([instancias, DM, DE, DEN, DC, DJ], axis=1, ignore_index=True)
+    df = pd.concat([instancias, DM, DE], axis=1, ignore_index=True)
+    # df.columns = ['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7', 'Manhattan', 'Euclidiana', 'Euclidiana Norm', 'Coseno', 'Jaccard']
+    df.columns = ['v1', 'v2', 'v3', 'v4', 'v5', 'v6', 'v7', 'Manhattan', 'Euclidiana']
     print(df)
