@@ -1,0 +1,1001 @@
+Puntualidad,Estado del Producto,Servicio al Cliente,Precio,Respuesta
+Buena,Defectuoso,Muy Bueno,Alto,Si
+Regular,Bueno,Malo,Bajo,No
+Buena,Defectuoso,Malo,Medio,Si
+Mala,Bueno,Bueno,Medio,No
+Regular,Perfecto,Bueno,Bajo,No
+Regular,Perfecto,Bueno,Medio,Si
+Buena,Perfecto,Malo,Medio,No
+Mala,Perfecto,Malo,Bajo,No
+Mala,Bueno,Bueno,Bajo,Si
+Excelente,Bueno,Regular,Bajo,Si
+Mala,Bueno,Regular,Medio,No
+Mala,Bueno,Malo,Bajo,Si
+Mala,Perfecto,Muy Bueno,Bajo,Si
+Mala,Bueno,Malo,Bajo,Si
+Mala,Bueno,Malo,Medio,No
+Regular,Defectuoso,Malo,Alto,No
+Mala,Defectuoso,Regular,Medio,Si
+Regular,Bueno,Malo,Medio,Si
+Buena,Bueno,Excelente,Bajo,No
+Regular,Defectuoso,Regular,Alto,No
+Mala,Perfecto,Malo,Bajo,No
+Mala,Defectuoso,Malo,Bajo,No
+Mala,Defectuoso,Malo,Alto,Si
+Mala,Defectuoso,Malo,Bajo,No
+Regular,Bueno,Malo,Bajo,No
+Buena,Bueno,Malo,Medio,No
+Regular,Bueno,Muy Bueno,Alto,Si
+Excelente,Defectuoso,Muy Bueno,Bajo,Si
+Mala,Bueno,Malo,Bajo,Si
+Mala,Bueno,Malo,Alto,No
+Mala,Defectuoso,Excelente,Alto,Si
+Mala,Bueno,Regular,Bajo,No
+Mala,Defectuoso,Malo,Bajo,No
+Regular,Defectuoso,Malo,Bajo,No
+Mala,Defectuoso,Regular,Bajo,No
+Mala,Bueno,Regular,Alto,Si
+Mala,Defectuoso,Muy Bueno,Medio,No
+Excelente,Perfecto,Muy Bueno,Medio,Si
+Mala,Defectuoso,Muy Bueno,Medio,No
+Mala,Defectuoso,Malo,Alto,Si
+Buena,Bueno,Malo,Alto,No
+Buena,Bueno,Excelente,Bajo,Si
+Buena,Perfecto,Regular,Bajo,No
+Regular,Defectuoso,Bueno,Bajo,No
+Mala,Defectuoso,Malo,Bajo,Si
+Excelente,Defectuoso,Excelente,Bajo,Si
+Buena,Defectuoso,Malo,Bajo,Si
+Mala,Perfecto,Bueno,Bajo,Si
+Buena,Perfecto,Malo,Bajo,No
+Mala,Defectuoso,Malo,Medio,No
+Excelente,Bueno,Excelente,Alto,Si
+Buena,Defectuoso,Malo,Bajo,Si
+Mala,Defectuoso,Muy Bueno,Bajo,Si
+Regular,Defectuoso,Regular,Medio,Si
+Mala,Perfecto,Malo,Alto,No
+Mala,Perfecto,Malo,Medio,No
+Mala,Perfecto,Regular,Medio,Si
+Mala,Perfecto,Malo,Alto,Si
+Mala,Defectuoso,Bueno,Bajo,Si
+Mala,Bueno,Regular,Medio,Si
+Mala,Defectuoso,Muy Bueno,Alto,No
+Buena,Perfecto,Excelente,Medio,Si
+Regular,Defectuoso,Bueno,Medio,No
+Mala,Defectuoso,Muy Bueno,Medio,Si
+Mala,Bueno,Bueno,Alto,No
+Mala,Defectuoso,Muy Bueno,Medio,Si
+Mala,Defectuoso,Malo,Bajo,No
+Excelente,Defectuoso,Muy Bueno,Medio,Si
+Mala,Defectuoso,Excelente,Medio,No
+Mala,Bueno,Muy Bueno,Medio,No
+Buena,Defectuoso,Regular,Medio,Si
+Mala,Bueno,Malo,Alto,No
+Regular,Defectuoso,Malo,Bajo,No
+Excelente,Bueno,Malo,Alto,No
+Mala,Defectuoso,Regular,Medio,Si
+Mala,Perfecto,Regular,Bajo,No
+Mala,Bueno,Malo,Bajo,No
+Mala,Defectuoso,Malo,Bajo,Si
+Buena,Defectuoso,Malo,Bajo,Si
+Excelente,Bueno,Excelente,Medio,Si
+Excelente,Defectuoso,Malo,Bajo,Si
+Mala,Bueno,Malo,Bajo,No
+Mala,Defectuoso,Regular,Medio,No
+Mala,Perfecto,Excelente,Bajo,No
+Regular,Defectuoso,Excelente,Bajo,No
+Regular,Bueno,Bueno,Bajo,No
+Mala,Perfecto,Muy Bueno,Bajo,No
+Buena,Defectuoso,Muy Bueno,Bajo,No
+Mala,Defectuoso,Regular,Medio,No
+Mala,Bueno,Malo,Bajo,No
+Regular,Perfecto,Muy Bueno,Bajo,No
+Buena,Bueno,Malo,Medio,Si
+Mala,Perfecto,Muy Bueno,Bajo,Si
+Mala,Defectuoso,Muy Bueno,Alto,No
+Mala,Perfecto,Regular,Alto,Si
+Mala,Perfecto,Malo,Bajo,No
+Mala,Defectuoso,Excelente,Bajo,Si
+Regular,Perfecto,Bueno,Alto,Si
+Mala,Bueno,Malo,Alto,Si
+Mala,Defectuoso,Regular,Medio,No
+Excelente,Perfecto,Excelente,Medio,Si
+Buena,Perfecto,Bueno,Alto,No
+Excelente,Perfecto,Muy Bueno,Alto,Si
+Regular,Bueno,Bueno,Bajo,No
+Mala,Perfecto,Excelente,Alto,No
+Mala,Bueno,Bueno,Medio,No
+Regular,Defectuoso,Excelente,Bajo,Si
+Mala,Bueno,Regular,Medio,Si
+Regular,Defectuoso,Malo,Bajo,No
+Buena,Bueno,Bueno,Alto,Si
+Buena,Defectuoso,Excelente,Alto,No
+Mala,Perfecto,Regular,Bajo,Si
+Buena,Bueno,Muy Bueno,Medio,Si
+Mala,Bueno,Muy Bueno,Medio,Si
+Mala,Bueno,Muy Bueno,Alto,No
+Mala,Perfecto,Bueno,Alto,Si
+Regular,Bueno,Excelente,Alto,Si
+Mala,Defectuoso,Malo,Medio,No
+Mala,Defectuoso,Bueno,Medio,No
+Excelente,Bueno,Malo,Bajo,No
+Mala,Bueno,Regular,Medio,No
+Mala,Defectuoso,Malo,Bajo,Si
+Mala,Perfecto,Malo,Bajo,Si
+Mala,Defectuoso,Excelente,Bajo,No
+Regular,Bueno,Malo,Bajo,Si
+Mala,Defectuoso,Bueno,Alto,No
+Buena,Defectuoso,Regular,Medio,No
+Mala,Bueno,Malo,Medio,Si
+Excelente,Perfecto,Muy Bueno,Medio,Si
+Mala,Defectuoso,Regular,Bajo,Si
+Mala,Defectuoso,Malo,Bajo,No
+Buena,Perfecto,Malo,Alto,Si
+Mala,Defectuoso,Regular,Alto,No
+Mala,Bueno,Malo,Bajo,Si
+Mala,Bueno,Bueno,Medio,No
+Buena,Defectuoso,Malo,Bajo,No
+Regular,Bueno,Bueno,Bajo,Si
+Excelente,Bueno,Regular,Alto,No
+Regular,Defectuoso,Excelente,Alto,Si
+Mala,Perfecto,Bueno,Bajo,No
+Mala,Defectuoso,Bueno,Alto,Si
+Buena,Bueno,Regular,Medio,No
+Mala,Defectuoso,Malo,Bajo,No
+Mala,Defectuoso,Muy Bueno,Alto,Si
+Buena,Bueno,Muy Bueno,Bajo,Si
+Mala,Defectuoso,Excelente,Bajo,No
+Excelente,Bueno,Malo,Medio,Si
+Mala,Defectuoso,Regular,Bajo,No
+Mala,Bueno,Malo,Alto,Si
+Regular,Perfecto,Muy Bueno,Medio,No
+Buena,Bueno,Bueno,Alto,Si
+Mala,Defectuoso,Malo,Alto,No
+Mala,Perfecto,Regular,Bajo,No
+Mala,Bueno,Malo,Bajo,Si
+Mala,Bueno,Bueno,Bajo,No
+Regular,Bueno,Muy Bueno,Medio,No
+Mala,Perfecto,Regular,Alto,Si
+Regular,Defectuoso,Malo,Alto,Si
+Mala,Perfecto,Regular,Medio,Si
+Buena,Perfecto,Malo,Alto,Si
+Regular,Perfecto,Muy Bueno,Medio,No
+Buena,Defectuoso,Malo,Alto,No
+Mala,Perfecto,Bueno,Bajo,No
+Regular,Defectuoso,Bueno,Medio,Si
+Mala,Bueno,Muy Bueno,Alto,No
+Mala,Perfecto,Malo,Bajo,No
+Mala,Defectuoso,Malo,Medio,No
+Mala,Bueno,Regular,Alto,Si
+Buena,Defectuoso,Malo,Alto,Si
+Buena,Defectuoso,Regular,Bajo,Si
+Regular,Defectuoso,Malo,Bajo,No
+Mala,Defectuoso,Regular,Alto,No
+Mala,Bueno,Muy Bueno,Bajo,Si
+Excelente,Perfecto,Malo,Medio,Si
+Mala,Perfecto,Muy Bueno,Bajo,No
+Mala,Defectuoso,Muy Bueno,Alto,Si
+Mala,Bueno,Regular,Medio,No
+Mala,Defectuoso,Regular,Medio,No
+Regular,Defectuoso,Muy Bueno,Bajo,Si
+Mala,Bueno,Muy Bueno,Bajo,Si
+Mala,Defectuoso,Muy Bueno,Bajo,No
+Buena,Bueno,Malo,Medio,No
+Mala,Bueno,Regular,Bajo,Si
+Regular,Perfecto,Muy Bueno,Alto,Si
+Mala,Bueno,Muy Bueno,Medio,Si
+Mala,Bueno,Muy Bueno,Medio,No
+Excelente,Bueno,Bueno,Bajo,No
+Mala,Defectuoso,Malo,Alto,Si
+Mala,Perfecto,Excelente,Medio,Si
+Mala,Defectuoso,Muy Bueno,Medio,Si
+Excelente,Defectuoso,Regular,Bajo,Si
+Buena,Bueno,Excelente,Bajo,No
+Regular,Defectuoso,Malo,Bajo,No
+Mala,Perfecto,Regular,Bajo,Si
+Mala,Bueno,Malo,Medio,No
+Mala,Perfecto,Malo,Medio,Si
+Mala,Defectuoso,Malo,Bajo,Si
+Buena,Perfecto,Muy Bueno,Bajo,Si
+Mala,Perfecto,Regular,Alto,Si
+Mala,Bueno,Muy Bueno,Medio,Si
+Mala,Perfecto,Bueno,Alto,Si
+Buena,Bueno,Regular,Medio,No
+Mala,Defectuoso,Malo,Medio,Si
+Excelente,Defectuoso,Regular,Bajo,Si
+Mala,Bueno,Malo,Bajo,Si
+Mala,Bueno,Muy Bueno,Bajo,Si
+Excelente,Perfecto,Bueno,Alto,Si
+Mala,Bueno,Malo,Bajo,Si
+Excelente,Perfecto,Malo,Alto,Si
+Mala,Perfecto,Bueno,Alto,No
+Mala,Bueno,Muy Bueno,Bajo,No
+Mala,Bueno,Bueno,Alto,Si
+Mala,Defectuoso,Malo,Bajo,No
+Mala,Bueno,Malo,Medio,No
+Excelente,Defectuoso,Muy Bueno,Medio,Si
+Regular,Defectuoso,Malo,Alto,Si
+Mala,Defectuoso,Muy Bueno,Bajo,Si
+Mala,Defectuoso,Muy Bueno,Bajo,Si
+Mala,Bueno,Bueno,Medio,Si
+Mala,Defectuoso,Muy Bueno,Bajo,No
+Mala,Defectuoso,Regular,Alto,No
+Mala,Defectuoso,Malo,Bajo,No
+Buena,Perfecto,Malo,Medio,Si
+Regular,Defectuoso,Muy Bueno,Bajo,No
+Mala,Defectuoso,Malo,Bajo,Si
+Regular,Bueno,Bueno,Bajo,No
+Excelente,Bueno,Bueno,Bajo,No
+Mala,Defectuoso,Bueno,Medio,No
+Excelente,Bueno,Malo,Bajo,Si
+Regular,Defectuoso,Muy Bueno,Bajo,No
+Regular,Defectuoso,Muy Bueno,Alto,Si
+Buena,Perfecto,Bueno,Medio,No
+Mala,Perfecto,Excelente,Alto,No
+Mala,Bueno,Malo,Bajo,No
+Buena,Perfecto,Muy Bueno,Medio,Si
+Regular,Perfecto,Bueno,Bajo,Si
+Mala,Defectuoso,Bueno,Bajo,Si
+Mala,Perfecto,Excelente,Alto,Si
+Regular,Bueno,Bueno,Bajo,No
+Excelente,Bueno,Regular,Medio,No
+Buena,Perfecto,Muy Bueno,Alto,Si
+Mala,Bueno,Excelente,Bajo,Si
+Regular,Bueno,Malo,Alto,Si
+Mala,Bueno,Malo,Medio,No
+Mala,Perfecto,Regular,Medio,No
+Regular,Defectuoso,Regular,Alto,No
+Excelente,Defectuoso,Malo,Bajo,Si
+Mala,Bueno,Malo,Medio,No
+Mala,Defectuoso,Muy Bueno,Medio,Si
+Regular,Defectuoso,Muy Bueno,Medio,No
+Mala,Bueno,Regular,Bajo,Si
+Regular,Perfecto,Regular,Medio,Si
+Regular,Bueno,Bueno,Medio,Si
+Buena,Bueno,Bueno,Medio,Si
+Regular,Perfecto,Regular,Alto,Si
+Mala,Defectuoso,Regular,Medio,No
+Mala,Bueno,Muy Bueno,Bajo,No
+Mala,Bueno,Muy Bueno,Alto,No
+Buena,Defectuoso,Regular,Alto,Si
+Mala,Perfecto,Bueno,Medio,Si
+Mala,Bueno,Malo,Bajo,No
+Excelente,Defectuoso,Regular,Alto,No
+Regular,Bueno,Malo,Bajo,Si
+Excelente,Defectuoso,Malo,Bajo,No
+Mala,Defectuoso,Regular,Alto,No
+Buena,Bueno,Regular,Bajo,No
+Buena,Bueno,Bueno,Bajo,Si
+Regular,Perfecto,Malo,Alto,No
+Excelente,Perfecto,Muy Bueno,Medio,No
+Buena,Defectuoso,Malo,Alto,Si
+Excelente,Perfecto,Malo,Alto,No
+Mala,Bueno,Regular,Medio,Si
+Mala,Bueno,Muy Bueno,Medio,Si
+Mala,Perfecto,Malo,Bajo,Si
+Regular,Defectuoso,Bueno,Bajo,Si
+Regular,Perfecto,Bueno,Medio,No
+Mala,Perfecto,Malo,Alto,No
+Mala,Bueno,Muy Bueno,Alto,No
+Mala,Defectuoso,Bueno,Alto,Si
+Buena,Bueno,Malo,Bajo,No
+Buena,Defectuoso,Muy Bueno,Bajo,No
+Regular,Defectuoso,Bueno,Medio,No
+Regular,Defectuoso,Regular,Bajo,No
+Buena,Bueno,Muy Bueno,Medio,No
+Mala,Perfecto,Regular,Alto,No
+Mala,Defectuoso,Malo,Alto,Si
+Mala,Defectuoso,Muy Bueno,Medio,No
+Regular,Perfecto,Bueno,Alto,Si
+Buena,Perfecto,Bueno,Alto,Si
+Buena,Bueno,Malo,Alto,Si
+Excelente,Bueno,Malo,Bajo,Si
+Mala,Defectuoso,Bueno,Bajo,No
+Mala,Defectuoso,Muy Bueno,Alto,No
+Regular,Perfecto,Muy Bueno,Bajo,Si
+Regular,Defectuoso,Muy Bueno,Bajo,Si
+Mala,Perfecto,Regular,Bajo,No
+Mala,Bueno,Muy Bueno,Bajo,Si
+Buena,Bueno,Bueno,Alto,Si
+Mala,Defectuoso,Regular,Alto,Si
+Regular,Bueno,Malo,Bajo,No
+Mala,Defectuoso,Malo,Alto,No
+Mala,Bueno,Bueno,Bajo,Si
+Mala,Defectuoso,Regular,Medio,No
+Mala,Bueno,Bueno,Bajo,No
+Regular,Defectuoso,Muy Bueno,Bajo,No
+Buena,Bueno,Muy Bueno,Bajo,No
+Mala,Defectuoso,Malo,Bajo,No
+Regular,Defectuoso,Muy Bueno,Alto,No
+Regular,Perfecto,Muy Bueno,Bajo,Si
+Mala,Defectuoso,Bueno,Medio,No
+Mala,Perfecto,Muy Bueno,Alto,No
+Mala,Bueno,Malo,Medio,Si
+Excelente,Bueno,Muy Bueno,Alto,Si
+Buena,Defectuoso,Malo,Alto,Si
+Regular,Bueno,Malo,Alto,Si
+Mala,Perfecto,Regular,Bajo,Si
+Regular,Defectuoso,Muy Bueno,Bajo,Si
+Excelente,Perfecto,Regular,Alto,No
+Excelente,Defectuoso,Malo,Alto,No
+Regular,Defectuoso,Malo,Medio,Si
+Mala,Perfecto,Muy Bueno,Alto,No
+Mala,Defectuoso,Malo,Bajo,No
+Regular,Bueno,Muy Bueno,Alto,Si
+Mala,Defectuoso,Bueno,Bajo,Si
+Mala,Defectuoso,Muy Bueno,Bajo,No
+Regular,Perfecto,Malo,Alto,No
+Mala,Bueno,Malo,Medio,Si
+Mala,Bueno,Excelente,Bajo,No
+Regular,Perfecto,Muy Bueno,Alto,Si
+Mala,Bueno,Malo,Medio,No
+Regular,Defectuoso,Muy Bueno,Medio,No
+Mala,Bueno,Muy Bueno,Alto,No
+Regular,Bueno,Malo,Bajo,No
+Mala,Defectuoso,Bueno,Alto,No
+Regular,Defectuoso,Excelente,Bajo,Si
+Mala,Perfecto,Regular,Bajo,Si
+Regular,Defectuoso,Malo,Alto,No
+Mala,Bueno,Muy Bueno,Alto,Si
+Buena,Perfecto,Muy Bueno,Bajo,Si
+Regular,Bueno,Bueno,Medio,No
+Buena,Defectuoso,Bueno,Alto,No
+Buena,Bueno,Bueno,Alto,No
+Buena,Bueno,Bueno,Alto,Si
+Regular,Perfecto,Excelente,Bajo,Si
+Mala,Bueno,Muy Bueno,Bajo,Si
+Regular,Bueno,Muy Bueno,Bajo,Si
+Mala,Bueno,Muy Bueno,Medio,No
+Mala,Perfecto,Regular,Bajo,Si
+Buena,Perfecto,Regular,Medio,Si
+Mala,Defectuoso,Bueno,Bajo,No
+Buena,Defectuoso,Malo,Bajo,No
+Buena,Perfecto,Malo,Alto,No
+Regular,Defectuoso,Malo,Medio,No
+Buena,Bueno,Bueno,Bajo,Si
+Mala,Bueno,Regular,Bajo,No
+Mala,Defectuoso,Malo,Bajo,No
+Mala,Defectuoso,Malo,Alto,Si
+Mala,Bueno,Bueno,Bajo,Si
+Excelente,Defectuoso,Regular,Alto,Si
+Regular,Perfecto,Regular,Alto,No
+Excelente,Perfecto,Malo,Bajo,No
+Excelente,Perfecto,Malo,Alto,No
+Mala,Defectuoso,Malo,Alto,No
+Excelente,Defectuoso,Malo,Medio,No
+Mala,Perfecto,Regular,Medio,No
+Regular,Bueno,Regular,Medio,Si
+Regular,Defectuoso,Excelente,Bajo,Si
+Mala,Bueno,Muy Bueno,Bajo,No
+Buena,Perfecto,Regular,Medio,Si
+Mala,Bueno,Malo,Alto,No
+Buena,Bueno,Muy Bueno,Bajo,No
+Excelente,Bueno,Malo,Bajo,No
+Regular,Defectuoso,Malo,Medio,No
+Regular,Perfecto,Muy Bueno,Bajo,No
+Mala,Defectuoso,Malo,Bajo,No
+Regular,Defectuoso,Muy Bueno,Bajo,No
+Mala,Defectuoso,Malo,Bajo,No
+Buena,Perfecto,Muy Bueno,Bajo,Si
+Excelente,Perfecto,Malo,Bajo,No
+Buena,Bueno,Regular,Alto,Si
+Excelente,Perfecto,Bueno,Bajo,No
+Mala,Bueno,Malo,Alto,Si
+Buena,Bueno,Malo,Medio,No
+Mala,Defectuoso,Bueno,Medio,Si
+Mala,Defectuoso,Malo,Medio,Si
+Excelente,Defectuoso,Muy Bueno,Medio,Si
+Mala,Perfecto,Malo,Alto,No
+Regular,Bueno,Malo,Medio,No
+Mala,Perfecto,Regular,Alto,No
+Buena,Defectuoso,Bueno,Bajo,No
+Mala,Perfecto,Muy Bueno,Medio,No
+Mala,Bueno,Malo,Bajo,No
+Buena,Bueno,Regular,Bajo,Si
+Mala,Perfecto,Regular,Medio,Si
+Mala,Defectuoso,Regular,Alto,No
+Buena,Bueno,Malo,Alto,Si
+Buena,Perfecto,Regular,Alto,Si
+Regular,Bueno,Malo,Alto,Si
+Excelente,Defectuoso,Muy Bueno,Medio,Si
+Regular,Bueno,Malo,Bajo,Si
+Mala,Defectuoso,Malo,Medio,Si
+Mala,Defectuoso,Muy Bueno,Medio,No
+Buena,Defectuoso,Malo,Alto,No
+Mala,Bueno,Regular,Medio,No
+Mala,Perfecto,Bueno,Alto,Si
+Mala,Perfecto,Malo,Bajo,Si
+Buena,Defectuoso,Malo,Medio,Si
+Mala,Bueno,Malo,Bajo,No
+Mala,Defectuoso,Malo,Alto,No
+Mala,Bueno,Muy Bueno,Alto,No
+Buena,Bueno,Excelente,Bajo,Si
+Buena,Bueno,Excelente,Medio,No
+Mala,Perfecto,Bueno,Bajo,Si
+Mala,Bueno,Muy Bueno,Bajo,No
+Buena,Defectuoso,Malo,Bajo,No
+Buena,Bueno,Muy Bueno,Bajo,Si
+Buena,Defectuoso,Muy Bueno,Alto,No
+Mala,Defectuoso,Bueno,Alto,Si
+Mala,Perfecto,Malo,Medio,No
+Buena,Defectuoso,Excelente,Bajo,No
+Mala,Defectuoso,Regular,Bajo,Si
+Regular,Defectuoso,Malo,Bajo,Si
+Buena,Bueno,Malo,Bajo,Si
+Buena,Perfecto,Bueno,Medio,Si
+Excelente,Defectuoso,Regular,Bajo,No
+Buena,Bueno,Bueno,Alto,Si
+Mala,Defectuoso,Malo,Bajo,No
+Mala,Perfecto,Bueno,Alto,Si
+Mala,Defectuoso,Regular,Bajo,Si
+Mala,Perfecto,Bueno,Alto,Si
+Buena,Bueno,Bueno,Alto,Si
+Mala,Defectuoso,Regular,Alto,Si
+Mala,Defectuoso,Malo,Bajo,No
+Buena,Bueno,Bueno,Medio,No
+Regular,Defectuoso,Muy Bueno,Bajo,No
+Buena,Bueno,Bueno,Medio,No
+Buena,Bueno,Malo,Alto,No
+Regular,Defectuoso,Excelente,Alto,No
+Excelente,Defectuoso,Muy Bueno,Medio,Si
+Mala,Bueno,Regular,Bajo,Si
+Mala,Perfecto,Regular,Alto,Si
+Mala,Bueno,Bueno,Bajo,Si
+Mala,Defectuoso,Malo,Bajo,No
+Buena,Perfecto,Muy Bueno,Bajo,No
+Excelente,Bueno,Excelente,Alto,Si
+Mala,Defectuoso,Excelente,Bajo,No
+Regular,Defectuoso,Muy Bueno,Medio,No
+Mala,Defectuoso,Regular,Alto,No
+Mala,Perfecto,Excelente,Bajo,No
+Mala,Perfecto,Malo,Bajo,No
+Regular,Bueno,Regular,Bajo,No
+Regular,Bueno,Muy Bueno,Alto,No
+Regular,Defectuoso,Regular,Medio,Si
+Mala,Bueno,Malo,Bajo,Si
+Buena,Bueno,Malo,Medio,No
+Buena,Defectuoso,Malo,Bajo,No
+Mala,Bueno,Malo,Bajo,Si
+Regular,Perfecto,Malo,Bajo,No
+Regular,Perfecto,Bueno,Bajo,No
+Regular,Perfecto,Malo,Medio,No
+Regular,Defectuoso,Malo,Bajo,Si
+Mala,Defectuoso,Regular,Medio,Si
+Mala,Perfecto,Malo,Medio,No
+Mala,Defectuoso,Regular,Bajo,Si
+Mala,Defectuoso,Bueno,Bajo,No
+Regular,Bueno,Malo,Medio,Si
+Regular,Defectuoso,Malo,Bajo,Si
+Mala,Perfecto,Malo,Bajo,Si
+Buena,Defectuoso,Bueno,Medio,No
+Mala,Bueno,Malo,Bajo,Si
+Mala,Defectuoso,Bueno,Alto,Si
+Mala,Bueno,Bueno,Bajo,Si
+Buena,Perfecto,Muy Bueno,Bajo,No
+Buena,Bueno,Excelente,Bajo,No
+Mala,Bueno,Malo,Bajo,Si
+Mala,Bueno,Muy Bueno,Bajo,Si
+Mala,Defectuoso,Excelente,Medio,No
+Mala,Bueno,Muy Bueno,Medio,Si
+Mala,Defectuoso,Bueno,Bajo,No
+Buena,Perfecto,Malo,Bajo,Si
+Buena,Defectuoso,Malo,Bajo,No
+Regular,Bueno,Bueno,Medio,No
+Mala,Bueno,Malo,Medio,No
+Mala,Bueno,Bueno,Alto,No
+Mala,Defectuoso,Bueno,Bajo,No
+Regular,Defectuoso,Regular,Bajo,No
+Regular,Bueno,Muy Bueno,Medio,Si
+Mala,Bueno,Malo,Bajo,No
+Regular,Defectuoso,Regular,Medio,No
+Mala,Perfecto,Regular,Medio,Si
+Regular,Defectuoso,Excelente,Bajo,Si
+Buena,Perfecto,Regular,Bajo,Si
+Mala,Perfecto,Muy Bueno,Alto,No
+Mala,Defectuoso,Muy Bueno,Alto,No
+Buena,Perfecto,Malo,Medio,No
+Regular,Bueno,Malo,Medio,No
+Buena,Perfecto,Regular,Medio,No
+Mala,Perfecto,Malo,Bajo,Si
+Mala,Bueno,Regular,Alto,Si
+Regular,Bueno,Bueno,Alto,No
+Regular,Defectuoso,Malo,Bajo,No
+Mala,Defectuoso,Muy Bueno,Alto,Si
+Buena,Defectuoso,Malo,Bajo,Si
+Buena,Bueno,Excelente,Bajo,Si
+Mala,Bueno,Malo,Alto,No
+Buena,Defectuoso,Regular,Alto,Si
+Mala,Bueno,Regular,Medio,Si
+Buena,Defectuoso,Malo,Alto,Si
+Buena,Perfecto,Muy Bueno,Alto,Si
+Regular,Bueno,Regular,Bajo,No
+Buena,Defectuoso,Regular,Bajo,Si
+Mala,Bueno,Malo,Medio,Si
+Mala,Defectuoso,Muy Bueno,Medio,Si
+Mala,Defectuoso,Regular,Medio,Si
+Excelente,Perfecto,Malo,Medio,No
+Regular,Defectuoso,Excelente,Bajo,Si
+Excelente,Bueno,Muy Bueno,Bajo,Si
+Excelente,Bueno,Malo,Alto,No
+Mala,Defectuoso,Malo,Medio,Si
+Mala,Bueno,Bueno,Bajo,Si
+Regular,Bueno,Malo,Medio,No
+Mala,Defectuoso,Bueno,Bajo,No
+Buena,Bueno,Bueno,Bajo,Si
+Buena,Perfecto,Malo,Alto,No
+Mala,Defectuoso,Excelente,Medio,No
+Mala,Bueno,Muy Bueno,Bajo,Si
+Mala,Defectuoso,Muy Bueno,Medio,Si
+Buena,Bueno,Excelente,Medio,No
+Buena,Defectuoso,Regular,Alto,Si
+Buena,Bueno,Excelente,Alto,Si
+Regular,Defectuoso,Malo,Alto,No
+Mala,Bueno,Malo,Bajo,Si
+Regular,Defectuoso,Malo,Alto,No
+Mala,Defectuoso,Muy Bueno,Alto,No
+Mala,Defectuoso,Malo,Medio,No
+Mala,Bueno,Malo,Bajo,Si
+Excelente,Defectuoso,Bueno,Bajo,No
+Mala,Perfecto,Bueno,Bajo,Si
+Mala,Perfecto,Regular,Medio,No
+Buena,Bueno,Muy Bueno,Bajo,No
+Regular,Bueno,Regular,Medio,Si
+Mala,Perfecto,Regular,Alto,Si
+Regular,Bueno,Regular,Bajo,Si
+Mala,Defectuoso,Malo,Bajo,No
+Buena,Bueno,Regular,Alto,No
+Buena,Bueno,Bueno,Medio,No
+Mala,Perfecto,Malo,Medio,Si
+Excelente,Defectuoso,Bueno,Alto,No
+Mala,Perfecto,Malo,Alto,No
+Mala,Defectuoso,Regular,Bajo,No
+Mala,Bueno,Bueno,Medio,Si
+Excelente,Perfecto,Regular,Bajo,Si
+Buena,Defectuoso,Malo,Bajo,No
+Mala,Perfecto,Muy Bueno,Bajo,No
+Mala,Perfecto,Muy Bueno,Medio,No
+Mala,Bueno,Bueno,Alto,No
+Regular,Perfecto,Bueno,Bajo,Si
+Buena,Perfecto,Muy Bueno,Bajo,No
+Mala,Perfecto,Muy Bueno,Bajo,No
+Mala,Perfecto,Muy Bueno,Bajo,Si
+Regular,Bueno,Malo,Bajo,Si
+Mala,Perfecto,Excelente,Bajo,Si
+Mala,Defectuoso,Regular,Bajo,No
+Regular,Defectuoso,Bueno,Medio,Si
+Regular,Bueno,Bueno,Bajo,No
+Mala,Defectuoso,Bueno,Bajo,No
+Mala,Bueno,Malo,Alto,Si
+Mala,Defectuoso,Muy Bueno,Alto,No
+Buena,Defectuoso,Bueno,Alto,Si
+Excelente,Defectuoso,Muy Bueno,Alto,Si
+Mala,Defectuoso,Malo,Bajo,No
+Mala,Bueno,Bueno,Alto,Si
+Regular,Perfecto,Bueno,Alto,No
+Mala,Bueno,Regular,Alto,Si
+Mala,Bueno,Malo,Bajo,No
+Buena,Perfecto,Malo,Bajo,No
+Mala,Defectuoso,Malo,Alto,Si
+Regular,Bueno,Malo,Bajo,Si
+Mala,Defectuoso,Muy Bueno,Bajo,No
+Mala,Perfecto,Regular,Alto,No
+Mala,Bueno,Excelente,Alto,No
+Buena,Defectuoso,Malo,Bajo,Si
+Regular,Perfecto,Muy Bueno,Alto,Si
+Mala,Bueno,Regular,Bajo,Si
+Mala,Defectuoso,Bueno,Bajo,No
+Mala,Perfecto,Muy Bueno,Medio,Si
+Mala,Bueno,Muy Bueno,Bajo,Si
+Mala,Bueno,Bueno,Bajo,Si
+Mala,Defectuoso,Muy Bueno,Bajo,No
+Regular,Perfecto,Bueno,Medio,Si
+Mala,Bueno,Bueno,Bajo,No
+Buena,Bueno,Regular,Medio,No
+Mala,Defectuoso,Bueno,Alto,Si
+Mala,Defectuoso,Bueno,Medio,No
+Mala,Perfecto,Muy Bueno,Bajo,Si
+Regular,Bueno,Muy Bueno,Alto,No
+Mala,Bueno,Muy Bueno,Medio,No
+Buena,Bueno,Bueno,Bajo,No
+Mala,Bueno,Malo,Bajo,No
+Mala,Bueno,Bueno,Alto,Si
+Buena,Defectuoso,Malo,Medio,No
+Regular,Defectuoso,Muy Bueno,Medio,Si
+Buena,Perfecto,Malo,Bajo,No
+Mala,Bueno,Muy Bueno,Bajo,No
+Buena,Bueno,Malo,Bajo,Si
+Mala,Defectuoso,Regular,Medio,No
+Mala,Perfecto,Malo,Bajo,No
+Mala,Defectuoso,Excelente,Bajo,No
+Mala,Perfecto,Bueno,Bajo,Si
+Mala,Bueno,Regular,Bajo,Si
+Mala,Bueno,Malo,Bajo,No
+Mala,Perfecto,Excelente,Alto,No
+Buena,Bueno,Muy Bueno,Alto,Si
+Mala,Bueno,Excelente,Bajo,No
+Excelente,Defectuoso,Malo,Medio,Si
+Mala,Bueno,Bueno,Alto,Si
+Buena,Defectuoso,Bueno,Bajo,No
+Mala,Defectuoso,Malo,Alto,No
+Mala,Bueno,Muy Bueno,Medio,Si
+Mala,Bueno,Regular,Bajo,Si
+Regular,Perfecto,Muy Bueno,Bajo,Si
+Regular,Defectuoso,Malo,Bajo,Si
+Buena,Perfecto,Bueno,Bajo,Si
+Buena,Bueno,Regular,Bajo,Si
+Regular,Bueno,Malo,Medio,Si
+Mala,Perfecto,Malo,Alto,No
+Regular,Perfecto,Malo,Alto,Si
+Regular,Defectuoso,Muy Bueno,Alto,No
+Mala,Defectuoso,Muy Bueno,Alto,No
+Mala,Perfecto,Regular,Bajo,Si
+Regular,Defectuoso,Malo,Medio,No
+Buena,Defectuoso,Malo,Medio,Si
+Mala,Bueno,Bueno,Bajo,No
+Buena,Bueno,Bueno,Alto,Si
+Mala,Bueno,Malo,Medio,Si
+Excelente,Defectuoso,Excelente,Bajo,No
+Buena,Perfecto,Bueno,Bajo,Si
+Excelente,Bueno,Regular,Medio,No
+Mala,Defectuoso,Malo,Bajo,Si
+Regular,Defectuoso,Bueno,Alto,Si
+Regular,Perfecto,Bueno,Alto,No
+Mala,Perfecto,Bueno,Medio,No
+Regular,Bueno,Regular,Bajo,Si
+Mala,Bueno,Malo,Bajo,No
+Buena,Defectuoso,Malo,Medio,Si
+Mala,Defectuoso,Regular,Alto,Si
+Buena,Perfecto,Regular,Medio,Si
+Buena,Perfecto,Regular,Bajo,Si
+Mala,Defectuoso,Regular,Medio,No
+Regular,Defectuoso,Bueno,Medio,Si
+Mala,Bueno,Bueno,Medio,Si
+Regular,Defectuoso,Regular,Alto,Si
+Excelente,Defectuoso,Bueno,Bajo,Si
+Excelente,Perfecto,Malo,Bajo,No
+Mala,Defectuoso,Muy Bueno,Bajo,No
+Excelente,Perfecto,Excelente,Alto,Si
+Mala,Perfecto,Muy Bueno,Medio,Si
+Regular,Perfecto,Bueno,Alto,No
+Mala,Bueno,Bueno,Alto,No
+Mala,Perfecto,Malo,Bajo,No
+Mala,Defectuoso,Muy Bueno,Medio,Si
+Mala,Bueno,Malo,Alto,No
+Regular,Bueno,Regular,Alto,No
+Regular,Defectuoso,Bueno,Alto,No
+Buena,Bueno,Excelente,Medio,No
+Mala,Bueno,Excelente,Bajo,No
+Regular,Defectuoso,Bueno,Bajo,No
+Mala,Perfecto,Regular,Bajo,No
+Mala,Perfecto,Bueno,Medio,No
+Mala,Bueno,Excelente,Alto,No
+Regular,Defectuoso,Malo,Alto,Si
+Regular,Defectuoso,Muy Bueno,Bajo,Si
+Mala,Defectuoso,Malo,Alto,No
+Mala,Defectuoso,Muy Bueno,Bajo,Si
+Regular,Bueno,Regular,Bajo,Si
+Buena,Bueno,Muy Bueno,Bajo,No
+Excelente,Bueno,Bueno,Medio,No
+Regular,Bueno,Malo,Bajo,No
+Mala,Defectuoso,Excelente,Medio,Si
+Excelente,Defectuoso,Regular,Bajo,Si
+Mala,Bueno,Malo,Bajo,No
+Mala,Defectuoso,Malo,Medio,No
+Mala,Bueno,Malo,Alto,Si
+Mala,Bueno,Malo,Bajo,No
+Mala,Bueno,Regular,Alto,Si
+Excelente,Defectuoso,Malo,Alto,No
+Mala,Bueno,Muy Bueno,Medio,No
+Mala,Defectuoso,Muy Bueno,Alto,Si
+Mala,Bueno,Malo,Bajo,No
+Regular,Defectuoso,Bueno,Bajo,Si
+Mala,Bueno,Regular,Alto,No
+Buena,Bueno,Excelente,Bajo,No
+Mala,Perfecto,Bueno,Bajo,No
+Regular,Defectuoso,Regular,Bajo,Si
+Mala,Defectuoso,Muy Bueno,Medio,Si
+Mala,Defectuoso,Regular,Alto,Si
+Mala,Perfecto,Muy Bueno,Alto,Si
+Mala,Defectuoso,Malo,Alto,Si
+Mala,Defectuoso,Regular,Bajo,Si
+Mala,Bueno,Muy Bueno,Bajo,Si
+Regular,Perfecto,Malo,Bajo,Si
+Mala,Defectuoso,Regular,Alto,Si
+Excelente,Perfecto,Malo,Alto,No
+Mala,Perfecto,Malo,Bajo,Si
+Mala,Defectuoso,Muy Bueno,Bajo,No
+Mala,Defectuoso,Bueno,Medio,Si
+Regular,Perfecto,Excelente,Medio,Si
+Mala,Bueno,Bueno,Alto,No
+Mala,Bueno,Excelente,Bajo,No
+Excelente,Defectuoso,Muy Bueno,Medio,Si
+Mala,Bueno,Bueno,Bajo,Si
+Regular,Defectuoso,Malo,Bajo,Si
+Excelente,Perfecto,Regular,Alto,No
+Mala,Defectuoso,Muy Bueno,Bajo,No
+Mala,Bueno,Malo,Alto,Si
+Buena,Defectuoso,Bueno,Alto,Si
+Buena,Perfecto,Regular,Bajo,No
+Buena,Bueno,Regular,Alto,Si
+Excelente,Defectuoso,Regular,Bajo,Si
+Regular,Defectuoso,Malo,Medio,No
+Buena,Perfecto,Malo,Alto,No
+Regular,Defectuoso,Excelente,Bajo,Si
+Mala,Defectuoso,Muy Bueno,Alto,No
+Mala,Perfecto,Bueno,Bajo,No
+Mala,Defectuoso,Muy Bueno,Bajo,Si
+Mala,Defectuoso,Malo,Bajo,Si
+Mala,Defectuoso,Regular,Alto,Si
+Buena,Bueno,Bueno,Medio,Si
+Buena,Bueno,Bueno,Alto,Si
+Regular,Defectuoso,Malo,Medio,No
+Mala,Perfecto,Regular,Bajo,No
+Mala,Bueno,Muy Bueno,Medio,Si
+Mala,Defectuoso,Bueno,Bajo,No
+Mala,Defectuoso,Malo,Alto,Si
+Mala,Bueno,Malo,Alto,Si
+Regular,Defectuoso,Muy Bueno,Alto,Si
+Buena,Defectuoso,Muy Bueno,Bajo,Si
+Buena,Perfecto,Malo,Bajo,No
+Mala,Bueno,Muy Bueno,Bajo,Si
+Buena,Defectuoso,Muy Bueno,Bajo,No
+Mala,Perfecto,Excelente,Medio,No
+Mala,Perfecto,Malo,Medio,Si
+Mala,Perfecto,Malo,Alto,Si
+Mala,Defectuoso,Bueno,Medio,Si
+Mala,Bueno,Malo,Alto,Si
+Mala,Defectuoso,Excelente,Alto,No
+Mala,Bueno,Excelente,Bajo,Si
+Mala,Perfecto,Malo,Bajo,Si
+Buena,Perfecto,Malo,Alto,Si
+Mala,Defectuoso,Excelente,Bajo,No
+Mala,Bueno,Regular,Medio,No
+Mala,Defectuoso,Malo,Alto,Si
+Regular,Defectuoso,Muy Bueno,Alto,Si
+Regular,Bueno,Muy Bueno,Medio,No
+Regular,Defectuoso,Bueno,Alto,No
+Regular,Bueno,Excelente,Bajo,No
+Excelente,Perfecto,Regular,Alto,Si
+Mala,Bueno,Muy Bueno,Bajo,Si
+Mala,Bueno,Malo,Alto,No
+Mala,Bueno,Muy Bueno,Medio,Si
+Excelente,Defectuoso,Muy Bueno,Bajo,No
+Mala,Bueno,Malo,Alto,Si
+Buena,Perfecto,Malo,Bajo,No
+Mala,Defectuoso,Regular,Bajo,No
+Mala,Defectuoso,Bueno,Medio,Si
+Mala,Defectuoso,Malo,Bajo,No
+Regular,Perfecto,Muy Bueno,Bajo,Si
+Mala,Perfecto,Regular,Alto,Si
+Regular,Perfecto,Malo,Bajo,Si
+Mala,Perfecto,Excelente,Medio,Si
+Excelente,Perfecto,Malo,Bajo,No
+Buena,Bueno,Excelente,Alto,No
+Regular,Bueno,Malo,Medio,Si
+Buena,Bueno,Malo,Alto,Si
+Mala,Perfecto,Muy Bueno,Bajo,Si
+Regular,Bueno,Malo,Bajo,Si
+Buena,Defectuoso,Bueno,Alto,Si
+Excelente,Perfecto,Bueno,Bajo,No
+Mala,Perfecto,Bueno,Alto,No
+Mala,Perfecto,Bueno,Bajo,No
+Regular,Bueno,Excelente,Bajo,No
+Mala,Defectuoso,Muy Bueno,Bajo,Si
+Mala,Bueno,Malo,Bajo,No
+Mala,Perfecto,Bueno,Bajo,No
+Buena,Bueno,Malo,Bajo,Si
+Mala,Defectuoso,Malo,Bajo,Si
+Excelente,Bueno,Muy Bueno,Bajo,No
+Mala,Defectuoso,Regular,Alto,Si
+Mala,Bueno,Excelente,Medio,No
+Mala,Defectuoso,Muy Bueno,Medio,Si
+Regular,Defectuoso,Malo,Medio,No
+Buena,Defectuoso,Malo,Medio,Si
+Mala,Perfecto,Bueno,Medio,Si
+Mala,Bueno,Malo,Medio,No
+Mala,Bueno,Malo,Bajo,No
+Buena,Bueno,Excelente,Medio,Si
+Mala,Defectuoso,Muy Bueno,Bajo,No
+Mala,Defectuoso,Malo,Alto,Si
+Mala,Perfecto,Muy Bueno,Bajo,Si
+Mala,Defectuoso,Malo,Medio,No
+Buena,Bueno,Malo,Medio,Si
+Buena,Perfecto,Bueno,Medio,No
+Mala,Bueno,Malo,Alto,Si
+Mala,Defectuoso,Malo,Bajo,Si
+Mala,Defectuoso,Bueno,Bajo,Si
+Regular,Defectuoso,Regular,Alto,Si
+Mala,Defectuoso,Excelente,Bajo,Si
+Mala,Defectuoso,Muy Bueno,Bajo,Si
+Mala,Bueno,Excelente,Bajo,Si
+Mala,Perfecto,Regular,Alto,Si
+Mala,Bueno,Muy Bueno,Alto,No
+Mala,Bueno,Malo,Bajo,Si
+Excelente,Bueno,Malo,Medio,No
+Mala,Bueno,Muy Bueno,Alto,No
+Excelente,Defectuoso,Regular,Medio,Si
+Mala,Defectuoso,Regular,Bajo,No
+Mala,Perfecto,Malo,Bajo,No
+Regular,Defectuoso,Bueno,Alto,Si
+Buena,Bueno,Malo,Alto,Si
+Mala,Bueno,Malo,Bajo,No
+Excelente,Perfecto,Muy Bueno,Bajo,Si
+Mala,Perfecto,Muy Bueno,Alto,Si
+Regular,Defectuoso,Bueno,Alto,No
+Buena,Defectuoso,Malo,Medio,No
+Mala,Perfecto,Malo,Medio,No
+Regular,Defectuoso,Malo,Bajo,No
+Buena,Bueno,Malo,Alto,No
+Regular,Perfecto,Malo,Medio,Si
+Mala,Perfecto,Muy Bueno,Bajo,Si
+Excelente,Defectuoso,Muy Bueno,Bajo,No
+Regular,Perfecto,Bueno,Alto,No
+Mala,Defectuoso,Malo,Bajo,No
+Buena,Perfecto,Regular,Alto,No
+Regular,Defectuoso,Malo,Alto,Si
+Buena,Bueno,Excelente,Alto,No
+Mala,Defectuoso,Malo,Alto,No
+Mala,Perfecto,Bueno,Medio,No
+Mala,Defectuoso,Regular,Bajo,Si
+Buena,Defectuoso,Malo,Bajo,Si
+Regular,Bueno,Malo,Alto,Si
+Mala,Perfecto,Malo,Bajo,No
+Mala,Perfecto,Regular,Medio,No
+Regular,Defectuoso,Malo,Bajo,No
+Mala,Bueno,Malo,Bajo,No
+Mala,Perfecto,Malo,Alto,No
+Buena,Bueno,Regular,Bajo,Si
+Mala,Defectuoso,Bueno,Medio,Si
+Mala,Bueno,Regular,Bajo,No
+Mala,Bueno,Malo,Bajo,No
+Excelente,Perfecto,Excelente,Alto,Si
+Mala,Defectuoso,Malo,Bajo,No
+Buena,Defectuoso,Bueno,Medio,No
+Mala,Perfecto,Regular,Medio,No
+Mala,Perfecto,Excelente,Medio,Si
+Excelente,Bueno,Regular,Medio,No
+Mala,Defectuoso,Regular,Bajo,No
+Buena,Bueno,Malo,Bajo,Si
+Mala,Bueno,Muy Bueno,Medio,No
+Buena,Defectuoso,Malo,Alto,Si
+Buena,Defectuoso,Malo,Medio,Si
+Excelente,Defectuoso,Malo,Bajo,No
+Mala,Bueno,Malo,Medio,No
+Mala,Defectuoso,Excelente,Bajo,No
+Mala,Defectuoso,Malo,Alto,Si
+Mala,Bueno,Muy Bueno,Bajo,No
+Regular,Defectuoso,Malo,Bajo,No
+Buena,Defectuoso,Muy Bueno,Bajo,Si
+Mala,Bueno,Malo,Medio,No
+Mala,Defectuoso,Regular,Bajo,Si
+Mala,Bueno,Malo,Alto,Si
+Buena,Perfecto,Regular,Medio,Si
+Mala,Defectuoso,Excelente,Bajo,No
+Mala,Defectuoso,Muy Bueno,Bajo,No
+Excelente,Bueno,Muy Bueno,Alto,No
+Mala,Defectuoso,Malo,Bajo,No
+Mala,Perfecto,Excelente,Medio,Si
+Regular,Perfecto,Malo,Medio,No
+Mala,Defectuoso,Malo,Bajo,Si
+Buena,Bueno,Muy Bueno,Medio,No
+Mala,Defectuoso,Bueno,Alto,Si
+Buena,Defectuoso,Muy Bueno,Alto,Si
+Excelente,Bueno,Malo,Alto,No
+Mala,Bueno,Regular,Bajo,No
+Regular,Perfecto,Malo,Bajo,No
+Buena,Defectuoso,Malo,Bajo,Si
+Mala,Bueno,Regular,Bajo,No
+Excelente,Bueno,Malo,Bajo,Si
+Mala,Perfecto,Malo,Bajo,Si
+Mala,Perfecto,Bueno,Bajo,Si
+Mala,Perfecto,Bueno,Bajo,No
+Mala,Bueno,Malo,Alto,Si
+Excelente,Defectuoso,Bueno,Bajo,Si
+Mala,Defectuoso,Bueno,Bajo,Si
+Regular,Bueno,Regular,Alto,Si
+Mala,Defectuoso,Regular,Alto,No
+Regular,Bueno,Muy Bueno,Bajo,No
+Mala,Defectuoso,Regular,Alto,Si
+Mala,Bueno,Muy Bueno,Alto,Si
+Mala,Bueno,Regular,Bajo,No
+Mala,Bueno,Malo,Medio,No
+Excelente,Perfecto,Bueno,Bajo,Si
+Regular,Bueno,Bueno,Alto,Si
+Buena,Perfecto,Malo,Alto,No
+Buena,Perfecto,Malo,Medio,No
+Buena,Defectuoso,Muy Bueno,Medio,No
+Excelente,Perfecto,Malo,Alto,Si
+Regular,Bueno,Malo,Bajo,No
+Buena,Bueno,Bueno,Bajo,No
+Buena,Defectuoso,Muy Bueno,Bajo,No
+Mala,Bueno,Regular,Bajo,No
+Mala,Defectuoso,Regular,Bajo,No
+Buena,Defectuoso,Malo,Alto,No
+Mala,Defectuoso,Malo,Medio,Si
+Mala,Bueno,Excelente,Medio,No
+Buena,Defectuoso,Regular,Bajo,No
+Buena,Bueno,Malo,Bajo,Si
+Mala,Perfecto,Malo,Bajo,No
+Mala,Defectuoso,Regular,Alto,Si
+Mala,Bueno,Malo,Bajo,Si
+Mala,Perfecto,Regular,Medio,No
+Excelente,Bueno,Muy Bueno,Alto,No
+Buena,Perfecto,Regular,Bajo,No
+Regular,Defectuoso,Bueno,Alto,Si
+Mala,Bueno,Regular,Bajo,No
+Mala,Defectuoso,Muy Bueno,Alto,Si
+Mala,Defectuoso,Malo,Alto,Si
+Mala,Bueno,Excelente,Bajo,No
+Mala,Perfecto,Regular,Medio,No
+Mala,Defectuoso,Malo,Bajo,Si
+Mala,Defectuoso,Malo,Medio,No
+Buena,Bueno,Malo,Alto,Si
+Mala,Bueno,Muy Bueno,Bajo,Si
+Buena,Bueno,Regular,Bajo,Si
+Mala,Bueno,Excelente,Bajo,Si
+Mala,Defectuoso,Malo,Alto,No
+Mala,Perfecto,Malo,Alto,No
+Buena,Defectuoso,Muy Bueno,Bajo,No
+Mala,Defectuoso,Malo,Bajo,Si
+Regular,Defectuoso,Excelente,Medio,No
+Mala,Defectuoso,Muy Bueno,Bajo,Si
+Buena,Bueno,Malo,Medio,Si
+Excelente,Defectuoso,Excelente,Medio,Si
+Excelente,Defectuoso,Malo,Bajo,Si
+Mala,Bueno,Regular,Medio,Si
+Mala,Perfecto,Muy Bueno,Bajo,Si
+Mala,Bueno,Muy Bueno,Bajo,Si
+Buena,Perfecto,Bueno,Bajo,Si
+Regular,Defectuoso,Malo,Bajo,Si
+Mala,Bueno,Bueno,Bajo,Si
+Regular,Perfecto,Malo,Alto,Si
+Buena,Bueno,Regular,Alto,Si
+Buena,Defectuoso,Regular,Bajo,Si
+Buena,Defectuoso,Regular,Medio,No
+Mala,Bueno,Regular,Bajo,No
+Regular,Defectuoso,Regular,Alto,No
+Excelente,Perfecto,Bueno,Bajo,No
+Excelente,Perfecto,Bueno,Medio,No
+Mala,Perfecto,Bueno,Bajo,No
+Mala,Perfecto,Regular,Medio,Si
+Mala,Bueno,Malo,Bajo,No
+Buena,Perfecto,Malo,Medio,Si
+Mala,Bueno,Malo,Bajo,Si
+Mala,Defectuoso,Bueno,Bajo,No
+Mala,Defectuoso,Excelente,Medio,No
+Mala,Defectuoso,Regular,Bajo,No
+Mala,Defectuoso,Bueno,Alto,Si
+Mala,Bueno,Regular,Bajo,No
+Buena,Bueno,Malo,Alto,Si
+Mala,Defectuoso,Muy Bueno,Bajo,No
+Mala,Bueno,Malo,Alto,Si
+Mala,Bueno,Muy Bueno,Medio,No
+Mala,Bueno,Muy Bueno,Bajo,No
+Regular,Defectuoso,Muy Bueno,Alto,No
+Mala,Defectuoso,Malo,Bajo,Si
+Mala,Perfecto,Muy Bueno,Medio,No
+Mala,Perfecto,Muy Bueno,Bajo,Si
+Buena,Defectuoso,Regular,Medio,Si
+Buena,Perfecto,Malo,Medio,Si
+Excelente,Bueno,Bueno,Medio,No
+Mala,Perfecto,Regular,Bajo,Si
+Buena,Bueno,Excelente,Medio,No
+Mala,Defectuoso,Muy Bueno,Medio,Si
+Buena,Perfecto,Malo,Medio,No
+Buena,Perfecto,Muy Bueno,Alto,No
+Mala,Defectuoso,Excelente,Medio,No
+Regular,Defectuoso,Muy Bueno,Medio,No
+Buena,Defectuoso,Malo,Medio,No
+Mala,Defectuoso,Muy Bueno,Alto,No
+Mala,Perfecto,Malo,Bajo,No
+Regular,Perfecto,Malo,Bajo,Si
+Regular,Bueno,Malo,Alto,No
+Mala,Perfecto,Regular,Bajo,Si
+Excelente,Perfecto,Malo,Bajo,No
+Mala,Bueno,Malo,Medio,No
+Mala,Bueno,Regular,Bajo,Si
+Mala,Defectuoso,Bueno,Alto,Si
+Regular,Bueno,Regular,Medio,No
+Mala,Perfecto,Bueno,Bajo,Si
+Mala,Bueno,Malo,Alto,Si
+Regular,Bueno,Malo,Alto,No

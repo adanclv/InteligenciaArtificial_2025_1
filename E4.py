@@ -3,11 +3,12 @@ import pandas as pd
 import csv
 
 def cargar_instancias():
-    with open('Archivos/dataset2.csv') as file:
+    with open('Archivos/dataset1.csv') as file:
         datos = csv.reader(file, delimiter=',')
+        header = next(datos)
         instancias = [list(map(int, dato)) for dato in datos]
 
-    return instancias
+    return header, instancias
 
 def dist_manhattan(instancias, vp):
     dist = list()
@@ -80,8 +81,7 @@ def definir_clase(cercanos, inst_entrenamiento):
 
 if __name__ == '__main__':
     splits = [0.70, 0.80, 0.90]
-    metricas =['Manhattan', 'Euclidiana', 'E. Normalizada', 'Coseno', 'Jaccard', 'Sorense']
-    fn_metricas = {
+    metricas = {
         'Manhattan': dist_manhattan,
         'Euclidiana': dist_euclidiana,
         'E. Normalizada': dist_euclidiana_normalizada,
@@ -89,15 +89,15 @@ if __name__ == '__main__':
         'Jaccard': dist_jaccard,
         'Sorense': dist_sorensen_dice
     }
-    dataset = cargar_instancias()
+    header, dataset = cargar_instancias()
     num_instancias = len(dataset)
 
-    resultados_dict = {metrica: [] for metrica in metricas}
-    matrices_dict = {metrica: [] for metrica in metricas}
+    resultados_dict = {key: [] for key in metricas}
+    matrices_dict = {key: [] for key in metricas}
     for split in splits:
         instancias = dataset.copy()
         rand.shuffle(instancias)
-        for metrica in metricas:
+        for key, fn in metricas.items():
             inst_entrenamiento = instancias[:int(num_instancias*split)]
             inst_prueba = instancias[int(num_instancias*split):]
 
@@ -105,7 +105,7 @@ if __name__ == '__main__':
             matriz_confusion = [[0, 0], [0, 0]]
 
             for prueba in inst_prueba:
-                dist = fn_metricas[metrica](inst_entrenamiento, prueba)
+                dist = fn(inst_entrenamiento, prueba)
                 dist.sort(key=lambda x: int(x[1]))
                 clase = definir_clase(dist[:int(len(dist)*0.20)], inst_entrenamiento)
                 resultados.append([prueba[-1], clase])
@@ -116,8 +116,8 @@ if __name__ == '__main__':
                 matriz_confusion[i][j] += 1
 
             precision = (matriz_confusion[0][0] + matriz_confusion[1][1]) / sum(sum(row) for row in matriz_confusion)
-            resultados_dict[metrica].append(round(precision, 4))
-            matrices_dict[metrica].append(matriz_confusion)
+            resultados_dict[key].append(round(precision, 4))
+            matrices_dict[key].append(matriz_confusion)
 
     df = pd.DataFrame(resultados_dict, index=[f'{int(s * 100)}/{int(100 - (s * 100))}' for s in splits]).T
     df_matrices = pd.DataFrame(matrices_dict, index=[f'{int(s * 100)}/{int(100 - (s * 100))}' for s in splits]).T

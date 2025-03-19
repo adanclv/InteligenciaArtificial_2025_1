@@ -8,4 +8,5 @@ for i in range(1000):
 
 
 df_completo = pd.DataFrame(values)
-df_completo.to_csv('./Archivos/dataset1.csv', index=False, header=False)
+df_completo.columns = ['id'] + ['v' + str(i) for i in range(1, 8)] + ['respuesta']
+df_completo.to_csv('./Archivos/dataset1.csv', index=False)
